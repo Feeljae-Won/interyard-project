@@ -2,7 +2,7 @@
 JSP/Servlet Project
 
 ## 발표 자료
-- 자세한 내용은 레파지토리에 `[Project]Spring_1team_Bangkok_ppt_240927_1.pdf` 파일 참고
+- 자세한 내용은 레파지토리에 `team2_interyard_ppt_통합본.pdf` 파일 참고
 
 ## 프로젝트 개요
 * **이름** : Interyard
@@ -26,7 +26,7 @@ JSP/Servlet Project
 |7|지유빈|서기|메세지 시스템|-|
 
 ## 요구사항 정의
-- 자세한 내용은 레파지토리에 `BANGKOK_requiredSpecity.pdf` 파일 참고
+- 자세한 내용은 레파지토리에 `team2_interyard_20240731_요구사항정의서_통합.pdf` 파일 참고
 
 ![interyard-rs](/upload/interyard-rs.png)
 
@@ -59,4 +59,4 @@ JSP/Servlet Project
 ![DB-Logical](/upload/interyard-dbLogical.png)
 
 ## 테이블 정의서
-- 자세한 내용은 레파지토리에 `BANGKOK_DBTable.pdf` 파일 참고
+- 자세한 내용은 레파지토리에 `team2_interyard_20240801_테이블명세서_통합.pdf` 파일 참고
